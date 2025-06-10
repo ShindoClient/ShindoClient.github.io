@@ -4,7 +4,6 @@
             "serverip": "hypixel.net",
             "mods": [
                 "text.freelook.name",
-                "text.hitdelayfix.name",
                 "text.rearview.name",
                 "text.targetinfo.name",
                 "text.autotext.name"
