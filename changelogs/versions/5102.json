@@ -1,0 +1,16 @@
+{ 
+    "changelogs": [ 
+        { 
+            "text": "Text Value To Armor Status", 
+            "type": 0 
+        },
+        {
+            "text": "Client Indicator",
+            "type": 0
+        },
+        {
+            "text": "API Related Stuff",
+            "type": 1
+        }
+    ]
+}
