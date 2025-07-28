@@ -1,0 +1,12 @@
+{ 
+    "changelogs": [ 
+        { 
+            "text": "API BUG FIXES", 
+            "type": 1 
+        },
+        {
+            "text": "Better Linux Compatibility",
+            "type": 0
+        }
+    ]
+}
