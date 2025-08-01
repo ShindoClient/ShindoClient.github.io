@@ -1,0 +1,16 @@
+{ 
+    "changelogs": [ 
+        { 
+            "text": "API BUG FIXES", 
+            "type": 1 
+        },
+        {
+            "text": "Better Cosmetic Category",
+            "type": 0
+        },
+        {
+            "text": "Better Better Cape System",
+            "type": 0
+        }
+    ]
+}
