@@ -9,11 +9,11 @@
             "img": ""
         },
         {
-            "title": "The new news section.",
-            "Author": "ShindoClient",
-            "unixtime": 1734183120,
-            "subtitle": "The news from Shindo.",
-            "body": "We are testing the new news feature, here we will send announcements you can see straight from the client to stay updated about what we are working on!",
+            "title": "Linux Sypport!!!",
+            "Author": "MikiDevAHM",
+            "unixtime": 1754137348,
+            "subtitle": "Im glad to announce that ShindoClient now supports Linux.",
+            "body": "We are happy to announce that ShindoClient now supports Linux, this is a big step for us and we hope to see more users using the client on Linux. We have tested it on multiple distributions and it seems to work well, however if you find any issues please report them on our discord or github.",
             "img": ""
         }
     ]
